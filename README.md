@@ -1,2 +1,2 @@
 # blockchain-test
-test chain to learn how blockchain components work and interact
+Test chain to learn how blockchain components work and interact with each other.
